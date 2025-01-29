@@ -1,13 +1,13 @@
 
 
-import { ProfilCard } from './ProfileCard'
+import { ProfileCard } from './ProfileCard'
 
 function App() {
  
 
   return (
     <>
-      <ProfilCard />
+      <ProfileCard />
     </>
   )
 }
