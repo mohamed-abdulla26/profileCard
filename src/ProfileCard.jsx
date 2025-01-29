@@ -21,7 +21,7 @@ function User(props){
     )
 }
 
-export const ProfilCard = () => {
+export const ProfileCard = () => {
 
     const people=[
         {
